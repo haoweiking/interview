@@ -16,7 +16,11 @@ t.join()
 ```
 
 ### 2. 改写爬虫程序，变成多线程爬取
-
+```
+multi_thread_craw.py
+```
 
 ### 3. 速度对比：单线程爬虫 VS 多线程爬虫
-
+```
+multi_thread_craw.py
+```
