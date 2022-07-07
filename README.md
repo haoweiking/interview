@@ -9,3 +9,8 @@
 ##### base-info4 线程安全Lock的使用
 ##### base-info5 线程池，使用线程池的爬虫
 ##### base-info6 使用线程池对web服务加速
+##### base-info7 多线程、多进程在CPU密集计算下对比
+
+
+## gc-garbage_collection
+### base 为什么需要GC
