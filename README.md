@@ -10,6 +10,7 @@
 ##### base-info5 线程池，使用线程池的爬虫
 ##### base-info6 使用线程池对web服务加速
 ##### base-info7 多线程、多进程在CPU密集计算下对比
+##### base-info8 使用单线程异步IO实现爬虫
 
 
 ## gc-garbage_collection
