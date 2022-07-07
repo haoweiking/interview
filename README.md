@@ -10,7 +10,9 @@
 ##### base-info5 线程池，使用线程池的爬虫
 ##### base-info6 使用线程池对web服务加速
 ##### base-info7 多线程、多进程在CPU密集计算下对比
-##### base-info8 使用单线程异步IO实现爬虫
+##### base-info8 进程池在Flask服务中的怎么应用应用
+##### base-info9 使用单线程异步IO实现爬虫
+##### base-info10 使用信号量（semaphore）限制协程数量
 
 
 ## gc-garbage_collection
