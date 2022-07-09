@@ -13,7 +13,25 @@
 ##### base-info8 进程池在Flask服务中的怎么应用应用
 ##### base-info9 使用单线程异步IO实现爬虫
 ##### base-info10 使用信号量（semaphore）限制协程数量
+---
 
+## 垃圾回收知识整理
+### 垃圾回收知识整理
+#### 目录 gc-garbage_collection
+#### 目录解析
+##### base 为什么需要GC
+---
 
-## gc-garbage_collection
-### base 为什么需要GC
+## 数据结构与算法知识整理
+### 数据结构与算法知识整理及其算法实现
+#### 目录 algorithm
+#### 目录解析
+##### 二叉树 
+##### 经典排序 
+---
+
+## 数据化python库学习
+### numpy库
+#### #### 目录 numeric_python
+#### 目录解析
+##### info-numpy numpy库使用说明
